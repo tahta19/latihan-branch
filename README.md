@@ -1,2 +1,1 @@
-# Ini adalah repository untuk latihan membuat branch baru di GitHub
-*hai*
+Ini adalah repository untuk latihan membuat branch baru di GitHub.
